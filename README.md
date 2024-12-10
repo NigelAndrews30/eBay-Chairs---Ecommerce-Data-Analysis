@@ -1,0 +1,1 @@
+This project was developed in Google Collab with python and python libraries for data analysis: Pandas and Numpy for data wrangling and cleaning, Matplotlib, Seaborn, and Plotly for creating visualization charts and graphs, and Dash for compiling an interactive dashboard.
